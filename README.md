@@ -1,4 +1,4 @@
-## Hi, I'm Mohamed Souilhi, an engineering student specializing in Big Data and Artificial Intelligence. Passionate about machine learning, deep learning, and data science, I love building AI-powered solutions and working on mobile and web development projects.
+## Hi, I'm Mohamed Souilhi, An engineer specializing in big data and artificial intelligence.. Passionate about machine learning, deep learning, and data science, I love building AI-powered solutions and working on mobile and web development projects.
 
 ⚡ Experienced in Python, TensorFlow, PyTorch, and cloud technologies<br/>
 ⚡ Skilled in Android development (Java/Kotlin), backend systems, and AI model fine-tuning<br/>
